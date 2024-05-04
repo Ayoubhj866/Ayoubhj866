@@ -1,6 +1,6 @@
 <!--![Master Head](https://i0.wp.com/wallpapercave.com/wp/wp2757874.gif)-->
 
-<img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWZxbDBnZzJjOThwaTNpY3VmdHdod3p1NjhrdXcyMWUxNmtydjMwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="Master Head" style="width:100%; display:block">
+<img align="center" src="https://drive.google.com/file/d/1ApandPni1OA_vy3PUJpDa2NoNOF6bKPF/view?usp=sharing" alt="Master Head" style="width:100%; display:block">
 
 
 
