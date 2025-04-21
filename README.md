@@ -1,7 +1,7 @@
 <!--![Master Head](https://i0.wp.com/wallpapercave.com/wp/wp2757874.gif)-->
 
 
-<h1 align="center">Hi 👋, I'm Ayoub, EL HAJJI</h1>
+<h2 align="center">Hi 👋, I'm Ayoub, EL HAJJI</h1>
 <h3 align="center">A passionate software engineer from Morocco</h3>
 
 <!--<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/720555/screenshots/4029449/desk.gif">-->
